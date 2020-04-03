@@ -1,4 +1,11 @@
-host: 'localhost'
-user: 'root'
-password: ''
-database: 'employee'
+dev:
+  host: 'localhost'
+  user: 'root'
+  password: ''
+  database: 'employee'
+
+test:
+  host: 'localhost'
+  user: 'root'
+  password: ''
+  database: 'employee_test'
